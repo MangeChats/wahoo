@@ -1,0 +1,20 @@
+"0'15\" - Sprint"
+(nom "Sprint" duree 15 puissance 100 cadence-min 70 cadence-max 120)
+"0'10\" - SprintCourt"
+(nom "SprintCourt" duree 10 puissance 101 cadence-min 80 cadence-max 125)
+"10'00\" - Course"
+(nom "Course" duree 600 puissance 90 cadence-min 70 cadence-max 100)
+"20'00\" - LongueCourse"
+(nom "Course" duree 1200 puissance 90 cadence-min 65 cadence-max 100)
+"0'30\" - Unijamb"
+(nom "Unijamb" duree 30 puissance 40 cadence-min 30 cadence-max 60)
+"5'00\" - Force"
+(nom "Force" duree 300 puissance 90 cadence-min 40 cadence-max 60)
+"5'00\" - Fréquence"
+(nom "Fréquence" duree 300 puissance 80 cadence-min 90 cadence-max 110)
+"5'00\" - Recup"
+(nom "Recup" duree 300 puissance 50 cadence-min 50 cadence-max 80)
+"0'30\" - Unijambiste"
+(nom "Unijambiste" duree 30 puissance 40 cadence-min 30 cadence-max 60)
+"30'00\" - Echauffement"
+(nom "Echauffement" duree 1800 puissance 50 cadence-min 60 cadence-max 80)

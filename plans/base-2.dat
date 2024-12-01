@@ -1,0 +1,8 @@
+"0'15\" - Sprint"
+(:nom "Sprint" :duree 15 :puissance 100 :cadence-min 70 :cadence-max 120)
+"0'30\" - Echauff"
+(:nom "Echauff" :duree 30 :puissance 50 :cadence-min 60 :cadence-max 80)
+"10'00\" - Course"
+(:nom "Course" :duree 600 :puissance 90 :cadence-min 70 :cadence-max 100)
+"20'00\" - LongueCourse"
+(:nom "LongueCourse" :duree 1200 :puissance 90 :cadence-min 65 :cadence-max 100)
