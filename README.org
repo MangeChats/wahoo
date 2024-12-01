@@ -1,0 +1,7 @@
+* Contexte
+Le GPS ne permet pas en standard la définition d'entrainements personnalisés.
+Il existe sur internet une description des fichiers utilisés pour cela par Wahoo.
+Il est possible d'en écrire ainsi, et je me propose de définir une interface dans emacs pour cela
+
+Une première version a été commencée en Common Lisp, puis une deuxième appelée
+wahoo.el. Un réécriture a été faite dans train.el pour se servant de minor modes et de helm.
